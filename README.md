@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://getbootstrap.com/">
+  <a href="https://github.com/shettigarsanthosh">
     <img src="https://avatars1.githubusercontent.com/u/52244500?v=4" alt="Santhosh" width="72" height="72">
   </a>
 </p>
 
-<h3 align="center">Bootstrap</h3>
+<h3 align="center">Santhosh</h3>
 
 <p align="center">
   Android articles
