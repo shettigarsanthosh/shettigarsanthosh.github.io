@@ -34,7 +34,7 @@
   <br>
 </p>
 
-<div class="card">
+<div>
   <a class="card" target="_blank" rel="noopener" href="https://learnkotlin.github.io/AndroidArtifactoryProvider/">
     <span class="repo">Android Artifactory Provider</span>
    </a>
