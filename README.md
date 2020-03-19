@@ -6,7 +6,6 @@
     border: 1px solid #eee;
     background-color: #fafafa;
     height: 40px;
-    width: 200px;
     margin: 0 8px 16px;
     padding: 16px;
     display: flex;
