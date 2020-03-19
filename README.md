@@ -5,6 +5,7 @@
     border-radius: 4px;
     border: 1px solid #eee;
     background-color: #fafafa;
+    width: 350px;
     height: 40px;
     margin: 0 8px 16px;
     padding: 16px;
@@ -36,6 +37,30 @@
 <div class="card" >
   <a target="_blank" rel="noopener" href="https://learnkotlin.github.io/AndroidArtifactoryProvider/">
     <span class="repo">Android Artifactory Provider</span>
+   </a>
+</div>
+
+<div class="card" >
+  <a target="_blank" rel="noopener" href="https://github.com/LearnKotlin/AndroidArtifactoryConsumer">
+    <span class="repo">Android Artifactory Consumer</span>
+   </a>
+</div>
+
+<div class="card" >
+  <a target="_blank" rel="noopener" href="https://github.com/LearnKotlin/GlassyCanvasDraw">
+    <span class="repo">Glassy Canvas Drawing</span>
+   </a>
+</div>
+
+<div class="card" >
+  <a target="_blank" rel="noopener" href="https://github.com/LearnKotlin/Dagger">
+    <span class="repo">Dagger</span>
+   </a>
+</div>
+
+<div class="card" >
+  <a target="_blank" rel="noopener" href="https://github.com/LearnKotlin/RxKotlinDataBinding">
+    <span class="repo">RxKotlin Databinding</span>
    </a>
 </div>
 
