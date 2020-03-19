@@ -1,3 +1,5 @@
+<html>
+
 <style>
 	.card {
     border-radius: 4px;
@@ -37,3 +39,5 @@
     <span class="repo">Android Artifactory Provider</span>
    </a>
 </div>
+
+</html>
