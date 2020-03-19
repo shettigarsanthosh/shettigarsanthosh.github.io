@@ -16,6 +16,6 @@
 
 <div  class="card-container">
   <a class="card" target="_blank" rel="noopener" href="https://learnkotlin.github.io/AndroidArtifactoryProvider/">
-    <span class="repo">AndroidArtifactoryProvider</span>
+    <span class="repo">Android Artifactory Provider</span>
    </a>
 </div>
