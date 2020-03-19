@@ -14,7 +14,9 @@
   <br>
 </p>
 
-<div  class="card-container">
+<div  style="border-radius: 4px;
+    border: 1px solid #eee;
+    background-color: #fafafa;">
   <a class="card" target="_blank" rel="noopener" href="https://learnkotlin.github.io/AndroidArtifactoryProvider/">
     <span class="repo">Android Artifactory Provider</span>
    </a>
